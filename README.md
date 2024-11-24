@@ -1,4 +1,4 @@
-# <p align = "center> "**_Projet-M2-Realite-augmentee_** </p>
+# **_Projet-M2-Realite-augmentee_**
 
 ## **_Visualisation en realite augmentee du reseau dans le cadre de l’industrie 4.0_**
 
