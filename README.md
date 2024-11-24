@@ -1,4 +1,4 @@
-[center]# **_Projet-M2-Realite-augmentee_**[/center]
+# **_Projet-M2-Realite-augmentee_**[/center]
 
 [center]## **_Diagrammes UML de l’application_**[/center]
 
